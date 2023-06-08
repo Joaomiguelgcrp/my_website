@@ -7,10 +7,10 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-Where minds are truly brought to life
+    subtitle: Where minds are truly brought to life
     title: Joao Miguel Rodrigues Pereira is a Master in Finance Candidate at London Business School (MFA2023) and a First Class Honours graduate in Economics from the University of Surrey. 
   blog: {}
-  contact: +351 926 473 698
+  contact: 
     address: 
       - city: London
         country: United Kingdom
@@ -33,8 +33,8 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright:  @2023 Joao Pereira where applicable. Do not distribute or reproduce in whole or in part without written permission of Joao Pereira 
-    enable: yes
+    copyright: Joao Pereira (2023)where applicable. Do not distribute or reproduce in whole or in part without written permission of Joao Pereira 
+    enable: 
      quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
@@ -65,7 +65,7 @@ params:
       - name: Five things I love about university life
         url: https://blogs.surrey.ac.uk/student-experience/2022/06/25/five-things-i-love-about-university/
     links:
-      - name: Economics 101: A Placement in her majesty’s government!
+      - name: Economics 101 A Placement in her majesty’s government!
         url: https://blogs.surrey.ac.uk/professional-training-placement-experience/2021/07/06/economics-101-a-placement-in-her-majestys-government/
       - name: Joao Miguel Rodrigues Pereira - London Business School
         url: https://www.london.edu/masters-degrees/student-alumni-and-ambassadors/joao-miguel-rodrigues-pereira
