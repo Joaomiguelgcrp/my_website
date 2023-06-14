@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner:
+    banner: ola08.jpeg
     buttonText: Get Started
     subtitle: |-
       Where minds are truly brought to life
@@ -81,29 +81,29 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: ola01.jpg
+      - image: ola01.jpeg
         subtitle: A sunny day in London
         title: London 
         url: blogs/london
-      - image: ola02.jpg
+      - image: ola02.jpeg
         subtitle: An Indigo Fund Party
         title: London Business Challenge week
         url: blogs/indigo
-      - image: ola03.jpg
+      - image: ola03.jpeg
         #subtitle: 
         title: LBS house party
         url: blogs/party      
-      - image: ola04.jpg
+      - image: ola04.jpeg
         #subtitle: 
         title: Family 
         url: blogs/family
-     # - image: ola05.jpg
+      - image: ola05.jpeg
         #subtitle: 
-     #   title: The Volunteer
-        #url: https://www.thevolunteernw1.co.uk/
-    #  - image: pic06.jpg
+        title: The Volunteer
+        url: https://www.thevolunteernw1.co.uk/
+      - image: ola06.jpeg
         #subtitle: 
-    #    title: Girlfriend 
+        title: Girlfriend 
         #url: blogs/ipsum
   two:
     buttonText: Get Started
