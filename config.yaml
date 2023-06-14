@@ -72,9 +72,9 @@ params:
         url: https://www.london.edu/masters-degrees/student-alumni-and-ambassadors/joao-miguel-rodrigues-pereira
       - name: Joao Miguel Rodrigues Pereira - University of Surrey
         url: https://www.surrey.ac.uk/student-life/what-our-students-say/joao-miguel-rodrigues-pereira
-      #- name: Elements
-       # url: elements.html
-  knitr::include_graphics("/img/pic1.jpg",error=FALSE)
+     # - name: Elements
+      #  url: elements.html
+    
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
