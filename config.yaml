@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-    banner: ola08.jpeg
+  banner: 
     buttonText: Get Started
     subtitle: |-
       Where minds are truly brought to life
